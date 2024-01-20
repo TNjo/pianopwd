@@ -1,6 +1,15 @@
-
+.key1{
+  background-color: rgb(252, 246, 223);
+}
 
 .key1:hover {
-  background-color: #df0808;
-  
+  background-color: #b1b1b1;
+}
+
+.key2{
+  background-color: rgb(10, 10, 10);
+}
+
+.key2:hover {
+  background-color: #2e2e2e;
 }

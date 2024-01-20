@@ -6,7 +6,9 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>React Piano</h1>
+        <center>
+          <h1>React Piano</h1>
+        </center>
       </header>
       <div>
         <Piano />

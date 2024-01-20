@@ -82,9 +82,9 @@ const Piano = () => {
       <div
         style={{
           transform: "rotate(180deg)",
-          width: "100%",
-          height: "100%",
-          paddingBottom: 58,
+          width: "90%",
+          height: "90%",
+          paddingBottom: 30,
           paddingLeft: 63,
           paddingRight: 63,
           background: "white",

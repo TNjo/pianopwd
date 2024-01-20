@@ -86,7 +86,7 @@ const Piano = () => {
           height: "100%",
           paddingBottom: 58,
           paddingLeft: 63,
-          paddingRight: 64,
+          paddingRight: 63,
           background: "white",
           justifyContent: "center",
           alignItems: "center",
